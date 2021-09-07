@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @payal2419
-- 👀 I’m interested in Software Development
+- 👀 I’m interested in Full-Stack Asp.net Software Development
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Asp.net Core MVC Projects
 - 📫 How to reach me payal.s.pawar@gmail.com
